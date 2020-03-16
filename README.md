@@ -31,6 +31,10 @@ This command creates a new branch and moves all your changes to the newly create
 
 The same as above, but it moves the changes to an existing branch. 
 
+**`git log --graph --oneline --decorate --all`**
+
+An ASCII art tree of all the branches, decorated with the names of tags and branches.
+
 # GIT ALIASES
 
 Create shorter git commands with git aliases. 

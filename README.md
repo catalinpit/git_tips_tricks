@@ -1,4 +1,7 @@
-# GIT TIPS AND TRICKS
+# GIT TIPS AND TRICKS 🔥🚀⚡
+
+For Git basics visit this link - [Git basics](https://rogerdudler.github.io/git-guide/).
+
  A repo containing only Git tips and tricks. 
 
 **`git log -10 --pretty --oneline`** 

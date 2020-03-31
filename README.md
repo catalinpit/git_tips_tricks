@@ -42,6 +42,11 @@ An ASCII art tree of all the branches, decorated with the names of tags and bran
 
 Edit the **last commit message** and save the commit. If you have already pushed the code, push again by using `--force` flag to make changes to remote repository.
 
+**`git shortlog`**
+
+Summarizes git log output in a format suitable for inclusion in release
+announcements. Each commit will be grouped by author and title. ([source](https://git-scm.com/docs/git-shortlog))
+
 # GIT ALIASES
 
 Create shorter git commands with git aliases.

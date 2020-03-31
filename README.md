@@ -45,7 +45,7 @@ Edit the **last commit message** and save the commit. If you have already pushed
 **`git shortlog`**
 
 Summarizes git log output in a format suitable for inclusion in release
-announcements. Each commit will be grouped by author and title. ([source](https://git-scm.com/docs/git-shortlog))
+announcements. Each commit will be grouped by author and title. ([source](https://git-scm.com/docs/git-shortlog)) ([@natterstefan](https://twitter.com/natterstefan/status/1244888942165610497))
 
 # GIT ALIASES
 
